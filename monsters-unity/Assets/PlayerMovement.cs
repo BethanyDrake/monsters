@@ -11,6 +11,6 @@ public class PlayerMovement : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+        GetComponent<Rigidbody>().velocity = new Vector3(Input.GetAxis("Vertical"), 0, Input.GetAxis("Horizontal"));
 	}
 }
