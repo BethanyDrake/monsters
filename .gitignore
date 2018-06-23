@@ -28,9 +28,7 @@ sysinfo.txt
 /*.booproj
 .consulo/
 /*.tmp
-/*.svd
-/*.dll
-/*.log 
+/*.svd 
 # ============ #
 # OS generated #
 # ============ #
@@ -44,5 +42,4 @@ ehthumbs.db
 [Dd]esktop.ini
 monsters-unity/Library/ShaderCache/
 monsters-unity/Library/metadata/
-monsters-unity/Library/InspectorExpandedItems.asset
-monsters-unity/Library/ScriptAssemblies/
+
